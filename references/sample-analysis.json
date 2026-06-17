@@ -1,0 +1,118 @@
+{
+  "sample_dir": "local sample corpus (not included)",
+  "pair_count": 8,
+  "record_count": 8,
+  "docx_chars": {
+    "min": 1078,
+    "max": 1883,
+    "mean": 1423.5
+  },
+  "docx_images": {
+    "min": 2,
+    "max": 6,
+    "mean": 3.5
+  },
+  "docx_paragraphs": {
+    "min": 9,
+    "max": 14,
+    "mean": 11.38
+  },
+  "records": [
+    {
+      "base": "Glacial lake mapping_machine learning_20240310_v3.1",
+      "has_pdf": true,
+      "has_docx": true,
+      "docx_title": "RSE：基于深度学习的青藏高原及周边地区冰湖自动提取",
+      "docx_paragraphs": 14,
+      "docx_chars": 1533,
+      "docx_images": 4,
+      "figure_caption_count": 4,
+      "pdf_pages": 35,
+      "pdf_title": ""
+    },
+    {
+      "base": "Han - 2024 - Reconstructing Tibetan Plateau lake bathymetry using ICESat-2 photon-counting laser altimetry",
+      "has_pdf": true,
+      "has_docx": true,
+      "docx_title": "RSE：基于ICESat-2激光雷达高度计数据的青藏高原湖泊水储量估算",
+      "docx_paragraphs": 14,
+      "docx_chars": 1435,
+      "docx_images": 4,
+      "figure_caption_count": 4,
+      "pdf_pages": 17,
+      "pdf_title": "Reconstructing Tibetan Plateau lake bathymetry using ICESat-2 photon-counting laser altimetry"
+    },
+    {
+      "base": "Han 等 - 2026 - SWOT performance in monitoring water level of high-mountain lakes on the Tibetan Plateau",
+      "has_pdf": true,
+      "has_docx": true,
+      "docx_title": "JAG：基于SWOT卫星的青藏高原湖泊水位变化监测",
+      "docx_paragraphs": 9,
+      "docx_chars": 1435,
+      "docx_images": 2,
+      "figure_caption_count": 2,
+      "pdf_pages": 15,
+      "pdf_title": "SWOT performance in monitoring water level of high-mountain lakes on the Tibetan Plateau"
+    },
+    {
+      "base": "Wang 等 - 2025 - Mitigating future glacial lake outburst floods in the Himalaya",
+      "has_pdf": true,
+      "has_docx": true,
+      "docx_title": "SB：喜马拉雅未来冰湖溃决洪水灾害风险缓解策略",
+      "docx_paragraphs": 11,
+      "docx_chars": 1333,
+      "docx_images": 4,
+      "figure_caption_count": 4,
+      "pdf_pages": 27,
+      "pdf_title": "Mitigating future glacial lake outburst floods in the Himalaya"
+    },
+    {
+      "base": "Xu - Widespread societal and ecological impacts from projected Tibetan Plateau lake expansion",
+      "has_pdf": true,
+      "has_docx": true,
+      "docx_title": "NG：最新研究表明，青藏高原湖泊呈持续扩张趋势",
+      "docx_paragraphs": 11,
+      "docx_chars": 1078,
+      "docx_images": 2,
+      "figure_caption_count": 2,
+      "pdf_pages": 25,
+      "pdf_title": "Widespread societal and ecological impacts from projected Tibetan Plateau lake expansion"
+    },
+    {
+      "base": "Zhang - Underestimated mass loss from lake-terminating gla",
+      "has_pdf": true,
+      "has_docx": true,
+      "docx_title": "NG：喜马拉雅冰湖接触冰川质量损失被低估",
+      "docx_paragraphs": 9,
+      "docx_chars": 1220,
+      "docx_images": 2,
+      "figure_caption_count": 2,
+      "pdf_pages": 19,
+      "pdf_title": "Underestimated mass loss from lake-terminating glaciers in the greater Himalaya"
+    },
+    {
+      "base": "Zhang 等 - 2024 - Characteristics and changes of glacial lakes and outburst floods",
+      "has_pdf": true,
+      "has_docx": true,
+      "docx_title": "NREE：全球冰湖与溃决洪水的特征与变化",
+      "docx_paragraphs": 13,
+      "docx_chars": 1883,
+      "docx_images": 6,
+      "figure_caption_count": 6,
+      "pdf_pages": 16,
+      "pdf_title": "Characteristics and changes of glacial lakes and outburst floods"
+    },
+    {
+      "base": "Zhou 等 - 2025 - A novel framework for accurate, automated and dynamic global lake mapping based on optical imagery",
+      "has_pdf": true,
+      "has_docx": true,
+      "docx_title": "ISPRS：基于卫星光学影像的精确、自动和动态的全球湖泊制图新框架",
+      "docx_paragraphs": 10,
+      "docx_chars": 1471,
+      "docx_images": 4,
+      "figure_caption_count": 4,
+      "pdf_pages": 19,
+      "pdf_title": "A novel framework for accurate, automated and dynamic global lake mapping based on optical imagery"
+    }
+  ]
+}

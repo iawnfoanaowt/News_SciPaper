@@ -1,0 +1,7 @@
+interface:
+  display_name: "News_SciPaper"
+  short_description: "Draft Chinese news from English research PDFs."
+  default_prompt: "Use $news-scipaper to draft a Chinese research news release from this English paper, including figure choices and a Word output."
+
+policy:
+  allow_implicit_invocation: true

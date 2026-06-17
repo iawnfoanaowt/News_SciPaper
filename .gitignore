@@ -1,0 +1,41 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local working outputs
+work/
+outputs/
+output/
+tmp/
+temp/
+rendered/
+word_rendered/
+figure_pages/
+figures/
+lo_direct/
+*.log
+*.tmp
+*.bak
+
+# Generated news/test artifacts
+*_news.docx
+*_preview.pdf
+word_export_preview.pdf
+paper_extraction.json
+validation_result.json
+docx_validation.json
+crop_*.json
+
+# Local sample corpus should never be committed
+samples/
+sample_pdfs/
+sample_docx/
+*.pdf
+
+# Keep the template document tracked
+!assets/news_template.docx
